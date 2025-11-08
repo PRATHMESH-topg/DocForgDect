@@ -1,0 +1,19 @@
+# Core ML Libraries
+tensorflow==2.15.0
+keras==2.15.0
+scikit-learn==1.5.2
+numpy==1.26.4
+pandas==2.2.3
+
+# Image Processing
+opencv-python==4.10.0.84
+Pillow==10.4.0
+matplotlib==3.9.2
+
+# Backend (API)
+fastapi==0.115.2
+uvicorn==0.30.3
+
+# Utility & Debugging
+python-multipart==0.0.9
+tqdm==4.66.5
